@@ -1,0 +1,32 @@
+body {
+  /* using hexidecimal values */
+  background-color: red;
+  /* this is a comment */
+  color: white;
+}
+
+section {
+  margin: 20px;
+  padding: 40px;
+  width: 50%;
+  height: 1000px;
+  border: 4px dotted orange;
+  background-color: white;
+  color: black;
+}
+
+h2 {
+  margin: 0;
+  color: black;
+  text-decoration: underline;
+  font-family: Tahoma, sans-serif;
+}
+
+img {
+  width: 200px;
+}
+
+/* classes */
+.grinch {
+  color: limegreen;
+}
