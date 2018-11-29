@@ -9,7 +9,7 @@ section {
   margin: 20px;
   padding: 40px;
   width: 50%;
-  height: 1000px;
+  /* height: 1000px; */
   border: 4px dotted orange;
   background-color: white;
   color: black;
